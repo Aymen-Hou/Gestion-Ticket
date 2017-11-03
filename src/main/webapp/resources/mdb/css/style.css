@@ -1,0 +1,53 @@
+nav {
+        background-color:#243a51;  
+        color:#fff;
+  }
+.nav-link{
+	  
+  color: #fff;
+}
+.navbarDropdownMenuLink{
+	color: #fff;
+}
+#newColor{
+	background-color:#243a51;  
+        color:#fff;
+}
+#reload{
+	background-color:#243a51;  
+    color:#fff;
+    margin-right: 100px;
+      
+}
+#textColor{
+	color:#243a51; 
+}
+.form-group label{
+    font-size: 1em;
+}
+.page-header.hello{
+	margin-top: 70px;
+}
+.col-sm-offset-10.col-sm-12.reload
+{
+	margin-top:40;
+	margin-left: 450px;
+}
+.marginSolution
+{
+	margin-top: 70px;
+	margin-left: 40px;
+}
+#Detailstyle
+{
+	font-size: 1em;
+	color: #243a51;
+}
+.table td
+{
+	font-size: 1em;
+	color: #243a51;
+}
+.col-md-4.dims{
+	max-height:50px;;
+}
